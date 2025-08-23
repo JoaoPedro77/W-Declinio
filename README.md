@@ -1,6 +1,4 @@
-# W-Declinio
-
-# 🕹️ Projeto: Mini Jogo de Escolhas em React + TypeScript
+# 🛵 W-Declinio 
 
 ## 📖 Descrição
 
